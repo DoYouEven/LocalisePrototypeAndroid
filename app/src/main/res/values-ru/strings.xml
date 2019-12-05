@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string name="index.placeholder" formatted="false">Редактор имеет проверки, которые применяются для каждой сохраненной строки. Попробуйте перевести эту строку без заполнителя %s и вы увидите %2s .</string>
   <string name="main.country"></string>
   <plurals name="Test">
     <item quantity="one"></item>
@@ -7,4 +8,6 @@
     <item quantity="many"></item>
     <item quantity="other"></item>
   </plurals>
+  <string name="New_Android_Key"></string>
+  <string name="new_key_test">перевод</string>
 </resources>
