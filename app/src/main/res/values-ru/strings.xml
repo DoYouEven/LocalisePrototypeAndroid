@@ -10,4 +10,10 @@
   </plurals>
   <string name="New_Android_Key"></string>
   <string name="new_key_test">перевод</string>
+  <string name="new_key_test2">перевод</string>
+  <string name="testkey">перевод</string>
+  <string name="new_key_test_copy">перевод</string>
+  <string name="new_key_test2_copy">перевод</string>
+  <string name="mobile_key"></string>
+  <string name="Android_key"></string>
 </resources>
