@@ -13,5 +13,5 @@
   <string name="new_key_test_copy">translation1</string>
   <string name="new_key_test2_copy">translation1</string>
   <string name="mobile_key">Duplicate</string>
-  <string name="Android_key">test</string>
+  <string name="Android_key">test %s</string>
 </resources>
