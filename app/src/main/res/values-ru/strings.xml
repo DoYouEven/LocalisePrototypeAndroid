@@ -15,5 +15,6 @@
   <string name="new_key_test_copy">перевод</string>
   <string name="new_key_test2_copy">перевод</string>
   <string name="mobile_key"></string>
-  <string name="Android_key"></string>
+  <string name="mobile_key"></string>
+  <string name="test_pr"></string>
 </resources>
