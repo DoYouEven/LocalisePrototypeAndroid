@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="index.placeholder"></string>
+  <string name="main.country"></string>
+  <plurals name="Test">
+    <item quantity="one"></item>
+    <item quantity="other"></item>
+  </plurals>
+  <string name="New_Android_Key"></string>
+  <string name="new_key_test"></string>
+  <string name="new_key_test2"></string>
+  <string name="testkey"></string>
+  <string name="new_key_test_copy"></string>
+  <string name="new_key_test2_copy"></string>
+  <string name="mobile_key"></string>
+  <string name="test_pr"></string>
+  <string name="test_key_demo"></string>
+  <string name="new_key_for_demo"></string>
+  <string name="test_key_demo_copy"></string>
+  <string name="test"></string>
+  <string name="test_color">Color</string>
+</resources>
